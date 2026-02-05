@@ -4,4 +4,4 @@
 
 ## 技术栈
 
-- Vue3 + NuxtJS + TypeScript
+- React + NextJS + TypeScript
